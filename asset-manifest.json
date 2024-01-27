@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/international-student-assistant/static/css/main.f855e6bc.css",
+    "main.js": "/international-student-assistant/static/js/main.6851abde.js",
+    "static/js/787.adc3f07c.chunk.js": "/international-student-assistant/static/js/787.adc3f07c.chunk.js",
+    "static/media/logo.svg": "/international-student-assistant/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/international-student-assistant/index.html",
+    "main.f855e6bc.css.map": "/international-student-assistant/static/css/main.f855e6bc.css.map",
+    "main.6851abde.js.map": "/international-student-assistant/static/js/main.6851abde.js.map",
+    "787.adc3f07c.chunk.js.map": "/international-student-assistant/static/js/787.adc3f07c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6851abde.js"
+  ]
+}
